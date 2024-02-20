@@ -2,11 +2,21 @@
 
 Problem Statement:
 
-AtliQ Hardware, a leading supplier of computer hardware and peripherals, faces significant challenges in tracking and gaining insights into its sales amidst a dynamically growing market. Bhavan Patel, the Sales Director, is frustrated by the lack of comprehensive and accurate information provided by the regional managers, who often present overly optimistic or convoluted verbal reports. The current method of managing sales data involves receiving numerous Excel files from various regional offices, each containing extensive rows of data. This inundation of raw data makes it challenging for Bhavan to extract actionable insights or identify areas for business improvement. He desires a simplified and easily understandable overview of the company's performance, preferably in the form of visual dashboards. The goal of this project is to develop a Power BI solution that provides Bhavan with real-time, accurate, and visually intuitive insights into AtliQ Hardware's sales performance. The solution should aggregate data from multiple sources, allowing Bhavan to easily track sales trends, identify underperforming regions, and make informed, data-driven decisions to drive sales growth.
+In the realm of sales analytics, there exists a pressing need to comprehensively analyze sales data spanning the years 2014 to 2017, with a focus on elucidating the dynamics of sales performance and associated metrics. This necessitates an investigation into the fluctuations in sales figures and corresponding profit margins during this period. Moreover, there is a crucial requirement to identify the top customers driving revenue, discern the geographical regions where significant shifts in sales occurred, and ascertain the category contributing the highest to sales volume. Additionally, a thorough examination of changes in customer count over the specified timeframe is imperative. To address these multifaceted inquiries, a detailed analysis leveraging pertinent sales data and analytics techniques is paramount. Furthermore, it is essential to identify and rank the top five customers based on their respective contributions to sales revenue, thereby offering valuable insights for strategic decision-making and optimization of sales strategies.
 
 Key Objectives:
 
-Aggregate sales data from multiple regional offices into a centralized Power BI platform. Develop interactive dashboards and visualizations that provide Bhavan with clear insights into sales performance across different regions. Implement features such as trend analysis, revenue breakdowns, and customer segmentation to aid in decision-making. Enable automated monthly email reports to keep Bhavan informed about the company's performance without the need for manual data retrieval. By delivering a user-friendly Power BI solution, this project aims to empower Bhavan Patel with the tools necessary to make strategic decisions and drive sales growth for AtliQ Hardware.
+Evaluate the change in sales performance from 2014 to 2017 and quantify the corresponding variation in profit margins.
+
+Identify the top customers based on sales revenue contribution during the specified period.
+
+Analyze the geographical regions where significant shifts in sales occurred and determine the states experiencing notable changes.
+
+Determine the category with the highest sales volume over the given timeframe.
+
+Investigate the fluctuation in customer count between 2014 and 2017.
+
+Provide a ranked list of the top five customers based on their respective contributions to sales revenue.
 
 In this Project work done as below:
 
